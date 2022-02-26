@@ -1,0 +1,9 @@
+{
+  
+  "license": "MIT",
+
+  "autoload":{
+  
+    "classmap":["Model"]
+  }
+}
